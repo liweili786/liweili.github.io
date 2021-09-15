@@ -12,7 +12,7 @@ tags: 简历
 [返回](./)
 
 <center>
-     <h1>开到荼蘼</h1>
+     <h1>李伟立</h1>
      <div>
          <span>
              <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/phone-solid.svg" width="18px">
@@ -25,7 +25,7 @@ tags: 简历
          </span>
          ·
          <span>
-             <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/avatar/me.jpg" width="18px">
+             <img src="qwer.jpg" width="18px">
              <a href="https://mqxu.github.io">我的博客</a>
          </span>
      </div>

@@ -16,17 +16,12 @@ tags: 简历
      <div>
          <span>
              <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/phone-solid.svg" width="18px">
-             139****5171
+             18751787342
          </span>
          ·
          <span>
              <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/envelope-solid.svg" width="18px">
-             mqxu@gmail.com
-         </span>
-         ·
-         <span>
-             <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/avatar/me.jpg" width="18px">
-             <a href="https://github.com/mqxu">我的Github</a>
+             2419376331@qq.com
          </span>
          ·
          <span>
@@ -38,26 +33,11 @@ tags: 简历
 
 ## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/info-circle-solid.svg" width="30px"> 个人信息
 
-- 软件工程技术专业教师
-- 工作经验：21 年
+- 学生
 
 ## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-- 硕士，南京航空航天大学，计算机科学与技术专业，2003.9~2006.5
-- 学士，南京师范大学，计算机科学与技术专业，1996.9~2000.6
-- 外语能力： CET4/6 英语等级考试
+- 苏州市职业大学，2018~2021
+- 南京工业职业技术大学，计算机科学与技术专业，2021~2023
 
-## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/briefcase-solid.svg" width="30px"> 工作经历
 
-- \*\*南京工业职业技术大学，计算机与软件学院，专业教师，2000.8~至今
-
-  负责软件工程专业课程教学
-
-## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/tools-solid.svg" width="30px"> 技能清单
-
-- ★★★ Java
-- ★★☆ Spring
-- ★★☆ HTML/CSS/JavaScript
-- ★★☆ Python
-- ★★★ MySQL
-- ★★★ Redis

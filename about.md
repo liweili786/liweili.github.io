@@ -26,7 +26,7 @@ tags: 简历
          ·
          <span>
              <img src="qwer.jpg" width="18px">
-             <a href="https://mqxu.github.io">我的博客</a>
+             <a href="https://liweili786.github.io/liweili.github.io/">我的博客</a>
          </span>
      </div>
  </center>

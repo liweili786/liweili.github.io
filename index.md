@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MQXU BLOG
+title: 我的博客
 ---
 
 ## 我的文章列表
